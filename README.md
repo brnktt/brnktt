@@ -5,12 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brnktt&label=Profile%20views&color=0e75b6&style=flat" alt="brnktt" /> </p>
 
 - 🔭 I’m currently working on [Groups360](https://groups360.com/)
+  
+- 🎨 You can find my portfolio [here](https://portfolio-alessandro-branchetti.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js, AWS**
 
 - 💬 Ask me about **React, Node.js**
 
-- 📫 How to reach me **brk.alessandro@gmail.com**
+- 📫 You can reach me [here](mailto:brk.alessandro@gmail.com)
 
 - ⚡ Fun fact **I speak five languages**
 
