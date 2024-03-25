@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node.js**
 
-- 📫 You can reach me [here](mailto:brk.alessandro@gmail.com)
+- 📫 You can reach me at **brk.alessandro@gmail.com**
 
 - ⚡ Fun fact **I speak five languages**
 
